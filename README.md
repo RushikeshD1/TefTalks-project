@@ -17,4 +17,4 @@ This is a responsive web project I created using **HTML** and **CSS**. The main 
 - **Media Queries**: To ensure the design adapts to different screen sizes, from mobile devices to desktops.
 
 ## Project Link
-You can view the live version of the project here: [**Ted Project Live Demo**](https://yourprojectlink.com)
+You can view the live version of the project here: [**Ted Project Live Demo**](https://rushikeshd1.github.io/TefTalks-project/)
